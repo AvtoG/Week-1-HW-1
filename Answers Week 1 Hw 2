@@ -1,0 +1,12 @@
+What does the rect function do?
+  the rect function allows us to draw a square on a grid in processing.
+
+What does the rectMode function do?
+  the rectMode function allows us to choose how we draw the squares on the grid,
+    - ie with corners, width/length etc.
+
+What is a pixel?
+  a pixel is a tiny illuminated area on a screen, one part of the whole
+
+What is HSB?
+  HSB is hue, saturation, and brightness
